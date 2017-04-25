@@ -1,2 +1,1 @@
-# proj5_recipe_recommender
-Metis Final Project
+Created a web application called Datatouille, which will help the user search for top rated recipes based on ingredients, and also recommend recipes from global cuisine types based on user selection of recipes. The model was built using Tf-idf, NMF and NLP.
